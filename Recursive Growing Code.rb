@@ -1,7 +1,7 @@
 # rubycodecamp
 Ruby CodeCamp Practices by Mirta Khairunnisa
 
-# Growing Iteration Code by Salman Mirta Nisrina Muthiah
+# Growing Iteration Code by Salman Mirta Nisrina Muthiah Codecamp BCL UI team
 srand(1)
 
 def create_box(origin, width, length, height)
